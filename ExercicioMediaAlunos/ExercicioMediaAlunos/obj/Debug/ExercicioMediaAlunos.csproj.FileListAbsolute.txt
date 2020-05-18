@@ -1,0 +1,7 @@
+C:\Users\Escolar Manager\source\repos\ExercicioMediaAlunos\ExercicioMediaAlunos\bin\Debug\ExercicioMediaAlunos.exe.config
+C:\Users\Escolar Manager\source\repos\ExercicioMediaAlunos\ExercicioMediaAlunos\bin\Debug\ExercicioMediaAlunos.exe
+C:\Users\Escolar Manager\source\repos\ExercicioMediaAlunos\ExercicioMediaAlunos\bin\Debug\ExercicioMediaAlunos.pdb
+C:\Users\Escolar Manager\source\repos\ExercicioMediaAlunos\ExercicioMediaAlunos\obj\Debug\ExercicioMediaAlunos.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\ExercicioMediaAlunos\ExercicioMediaAlunos\obj\Debug\ExercicioMediaAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\source\repos\ExercicioMediaAlunos\ExercicioMediaAlunos\obj\Debug\ExercicioMediaAlunos.exe
+C:\Users\Escolar Manager\source\repos\ExercicioMediaAlunos\ExercicioMediaAlunos\obj\Debug\ExercicioMediaAlunos.pdb
