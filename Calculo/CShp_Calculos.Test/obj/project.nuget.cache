@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M9K47FdMZ2lkGTnADcGrQ2M+HrD5Dp14z4liMDYMHWt3eaVXsMg6F70xYHuG4TkJedO1DXZyrNHJ6BY8kELRzg==",
+  "dgSpecHash": "G6XtMh6MwUuhDijQ1rvyQ3dqKQ0S/vfO7h4w6gWX5ATAJ07fFw//hQ8y6ZKM0kdl2rBX5AYr42dPjIXx8JdITQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\CShp_Calculos.Test\\CShp_Calculos.Test.csproj",
+  "projectFilePath": "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\CShp_Calculos.Test\\CShp_Calculos.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Escolar Manager\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Escolar Manager\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

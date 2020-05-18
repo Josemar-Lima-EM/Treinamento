@@ -27,7 +27,7 @@ namespace CShp_Calculos.Test
         [InlineData(1, 2, 3)]
         [InlineData(-4, -6, -10)]
         [InlineData(-2, 2, 0)]
-        [InlineData(int.MinValue, -1, int.MaxValue)]
+        [InlineData(int.MinValue, +1, int.MinValue + 1)]
         public void Somar_DoisNumerosRelativos_RetornaNumeroRelativo(int num1, int num2, int valorEsperado)
         {
             //Act

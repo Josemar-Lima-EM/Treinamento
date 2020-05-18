@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\CShp_Calculos.Test\\CShp_Calculos.Test.csproj": {}
+    "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\CShp_Calculos.Test\\CShp_Calculos.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\Calculo\\CShp_Calculos.csproj": {
+    "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\Calculo\\CShp_Calculos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\Calculo\\CShp_Calculos.csproj",
+        "projectUniqueName": "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\Calculo\\CShp_Calculos.csproj",
         "projectName": "CShp_Calculos",
-        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\Calculo\\CShp_Calculos.csproj",
+        "projectPath": "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\Calculo\\CShp_Calculos.csproj",
         "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\Calculo\\obj\\",
+        "outputPath": "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\Calculo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Escolar Manager\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\CShp_Calculos.Test\\CShp_Calculos.Test.csproj": {
+    "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\CShp_Calculos.Test\\CShp_Calculos.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\CShp_Calculos.Test\\CShp_Calculos.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\CShp_Calculos.Test\\CShp_Calculos.Test.csproj",
         "projectName": "CShp_Calculos.Test",
-        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\CShp_Calculos.Test\\CShp_Calculos.Test.csproj",
+        "projectPath": "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\CShp_Calculos.Test\\CShp_Calculos.Test.csproj",
         "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\CShp_Calculos.Test\\obj\\",
+        "outputPath": "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\CShp_Calculos.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Escolar Manager\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\Calculo\\CShp_Calculos.csproj": {
-                "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\Calculo\\CShp_Calculos.csproj"
+              "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\Calculo\\CShp_Calculos.csproj": {
+                "projectPath": "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\Calculo\\CShp_Calculos.csproj"
               }
             }
           }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\Calculo\\CShp_Calculos.csproj": {}
+    "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\Calculo\\CShp_Calculos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\Calculo\\CShp_Calculos.csproj": {
+    "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\Calculo\\CShp_Calculos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\Calculo\\CShp_Calculos.csproj",
+        "projectUniqueName": "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\Calculo\\CShp_Calculos.csproj",
         "projectName": "CShp_Calculos",
-        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\Calculo\\CShp_Calculos.csproj",
+        "projectPath": "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\Calculo\\CShp_Calculos.csproj",
         "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Calculo\\Calculo\\obj\\",
+        "outputPath": "C:\\Users\\Escolar Manager\\Desktop\\Treinamento\\Calculo\\Calculo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Escolar Manager\\AppData\\Roaming\\NuGet\\NuGet.Config",
