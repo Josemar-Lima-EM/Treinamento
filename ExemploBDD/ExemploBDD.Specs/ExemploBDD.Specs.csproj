@@ -109,12 +109,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConvTemperaturaStepDefinition.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <None Include="SpecFlowFeature1.feature" />
     <None Include="SpecFlowFeature2.feature" />
   </ItemGroup>
   <ItemGroup>
