@@ -30,6 +30,8 @@ namespace TDD.Test
             List<Porta> portas = carro.Portas;
 
             Assert.AreEqual(2, portas.Count);
+
+            Console.WriteLine();
         }
     }
 }
