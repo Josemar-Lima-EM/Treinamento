@@ -1,0 +1,6 @@
+C:\Users\Escolar Manager\Desktop\Treinamento\TDD.Domain\TDD.Domain\bin\Debug\TDD.Domain.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\TDD.Domain\TDD.Domain\bin\Debug\TDD.Domain.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\TDD.Domain\TDD.Domain\obj\Debug\TDD.Domain.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\TDD.Domain\TDD.Domain\obj\Debug\TDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\TDD.Domain\TDD.Domain\obj\Debug\TDD.Domain.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\TDD.Domain\TDD.Domain\obj\Debug\TDD.Domain.pdb
