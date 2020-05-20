@@ -1,3 +1,0 @@
-﻿#language: pt-BR
-Funcionalidade: 
-

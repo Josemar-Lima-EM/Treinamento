@@ -1,4 +1,0 @@
-C:\Users\Escolar Manager\source\repos\Calculo\CShp_Calculos.Test\obj\Debug\netcoreapp3.1\CShp_Calculos.Test.csprojAssemblyReference.cache
-C:\Users\Escolar Manager\source\repos\Calculo\CShp_Calculos.Test\obj\Debug\netcoreapp3.1\CShp_Calculos.Test.csproj.CoreCompileInputs.cache
-C:\Users\Escolar Manager\source\repos\Calculo\CShp_Calculos.Test\obj\Debug\netcoreapp3.1\CShp_Calculos.Test.AssemblyInfoInputs.cache
-C:\Users\Escolar Manager\source\repos\Calculo\CShp_Calculos.Test\obj\Debug\netcoreapp3.1\CShp_Calculos.Test.AssemblyInfo.cs
